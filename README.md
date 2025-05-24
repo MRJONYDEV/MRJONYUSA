@@ -3,7 +3,7 @@
 ## 🌟 About Me:
 - **Software Engineer** specializing in building scalable, high-performance systems.
 - **Competition Achievements**:
-  - Winner of the Programming Olympiad in [TAJIKISTAN].
+  - Winner of the Programming Olympiad in [Tajikistan].
 
 ## 🧰 Tech Stack:
 - **Languages**: Python 
