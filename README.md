@@ -1,16 +1,28 @@
-## Hi there 👋
+## HELLO GUYS I'M JONY DEV 😀
 
-<!--
-**MRJONYUSA/MRJONYUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me:
+- **Software Engineer** specializing in building scalable, high-performance systems.
+- **Competition Achievements**:
+  - Winner of the Programming Olympiad in [TAJIKISTAN].
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack:
+- **Languages**: Python 
+- **Frameworks & Libraries**: Django, Node.js, Bootstrap
+- **Databases**: SQLITE
+- **Other Tools**: Build Telgram bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Current Project:
+**EditAI**: [Edit.AI](https://t.me/azia434354252525523_bot)  
+This is my Telegram bot, its function is to answer any questions you may have, draw pictures, and communicate in any desired language.
+
+## 🔭 What I’m Working On:
+- Creating large-scale distributed systems and microservices.
+- Automating infrastructure with advanced DevOps tools and practices.
+- Building cutting-edge web applications with React and Next.js.
+
+## What can I do? 😮
+-I will create your web pages and make a Telegram bot for you.
+-And I am currently working on the TAJ ACADEMY project.
+
+## 📫 Let’s Connect:
+[Telegram](https://t.me/Mrbest28)
