@@ -27,5 +27,5 @@ This is my Telegram bot, its function is to answer any questions you may have, d
 ## 📫 Let’s Connect:
 [Telegram](https://t.me/Mrbest28)
 
-![free-icon-united-states-206626](https://github.com/user-attachments/assets/256043a0-611d-4092-b6b7-09361cb90ef6)
+![free-icon-united-states-206626](https://github.com/user-attachments/assets/256043a0-200d-200-b6b7-09361cb90ef6)
 
