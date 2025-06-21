@@ -27,4 +27,5 @@ This is my Telegram bot, its function is to answer any questions you may have, d
 ## 📫 Let’s Connect:
 [Telegram](https://t.me/Mrbest28)
 
-[https://www.flaticon.com/ru/free-icon/united-states_206626?term=%D0%A1%D0%A8%D0%90&page=1&position=3&origin=tag&related_id=20662]
+![free-icon-united-states-206626](https://github.com/user-attachments/assets/256043a0-611d-4092-b6b7-09361cb90ef6)
+
