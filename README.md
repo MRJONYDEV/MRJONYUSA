@@ -1,5 +1,6 @@
-## HELLO GUYS I'M JONY DEV 😀                                    
+## EN
 
+## HELLO GUYS I'M JONY DEV 😀                                    
 ## 🌟 About Me:
 - **Software Engineer** specializing in building scalable, high-performance systems.
 - **Competition Achievements**:
@@ -23,6 +24,7 @@ This is my Telegram bot, its function is to answer any questions you may have, d
 [Telegram](https://t.me/Mrbest28)
 
 ## RU
+
 ## Привет, ребята, я Джони Дев 😀
 ## 🌟 Обо мне:
 - **Программист**, специализирующийся на создании масштабируемых, высокопроизводительных систем.
@@ -38,5 +40,6 @@ This is my Telegram bot, its function is to answer any questions you may have, d
   
 ## Что я могу сделать? 😮
 - Я создам ваши веб-страницы и сделаю для вас бота Telegram.- И в данный момент я работаю над проектом IT ACADEMY.
-- ## 📫 Давайте подключимся:[Telegram](https://t.me/Mrbest28)
+- ## 📫 Давайте подключимся:
+- [Telegram](https://t.me/Mrbest28)
 
